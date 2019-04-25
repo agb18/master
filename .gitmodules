@@ -1,0 +1,3 @@
+[submodule "subtwo"]
+	path = subtwo
+	url = https://github.com/agb18/subtwo.git
