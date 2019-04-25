@@ -14,9 +14,11 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    sub/subclass.cpp
+    subtwo/libreriacompartida.cpp
+
 
 HEADERS  += mainwindow.h \
-    sub/subclass.h
+    subtwo/libreriacompartida.h
+
 
 FORMS    += mainwindow.ui
